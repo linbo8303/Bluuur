@@ -6,6 +6,9 @@
 [![License](https://img.shields.io/cocoapods/l/Bluuur.svg?style=flat)](http://cocoapods.org/pods/Bluuur)
 [![Platform](https://img.shields.io/cocoapods/p/Bluuur.svg?style=flat)](http://cocoapods.org/pods/Bluuur)
 
+[![Apps Using](https://img.shields.io/cocoapods/at/Bluuur.svg?label=Apps%20Using%20Bluuur&colorB=28B9FE)](http://cocoapods.org/pods/Bluuur)
+[![Downloads](https://img.shields.io/cocoapods/dt/Bluuur.svg?label=Total%20Downloads&colorB=28B9FE)](http://cocoapods.org/pods/Bluuur)
+
 This UIVisualEffectsView subclass allows to dynamically adjust blur radius by changing property `blurRadius` from `0.0` for any.
 
 <img width="100%" src="images/This-is-Bluuur.jpg">
